@@ -1,0 +1,1 @@
+This project was tested on a Raspberry Pi PICO and a breadboard
